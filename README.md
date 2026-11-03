@@ -1,138 +1,113 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:071B16,50:064E3B,100:0891B2&text=THILINA%20LAKSHAN&fontColor=ECFDF5&fontSize=55&fontAlignY=45&stroke=34D399&strokeWidth=1&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:090014,45:24104A,100:071B30&text=THILINA&fontColor=FFFFFF&fontSize=76&fontAlignY=43&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=650&lines=Curious+mind.+Endless+possibilities.;Exploring+technology+without+boundaries.;Learning.+Experimenting.+Building.;Turning+curiosity+into+creation." />
-
-**SOFTWARE ENGINEERING UNDERGRADUATE · DEVELOPER · EXPLORER**
-
-[![GitHub](https://img.shields.io/badge/GitHub-thilinaofficial-101916?style=for-the-badge&logo=github&logoColor=34D399)](https://github.com/thilinaofficial)
-[![Location](https://img.shields.io/badge/LOCATION-SRI%20LANKA-101916?style=for-the-badge&logo=googlemaps&logoColor=67E8F9)](https://github.com/thilinaofficial)
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ BEYOND ONE DIMENSION
-
-*One field is never enough. One possibility is never the limit.*
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://img.icons8.com/fluency/96/source-code.png" width="48"/>
-
-### SOFTWARE ENGINEERING
-
-Applications · Architecture · Systems
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="48"/>
-
-### ARTIFICIAL INTELLIGENCE
-
-Intelligence · Automation · Exploration
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://img.icons8.com/fluency/96/controller.png" width="48"/>
-
-### GAME DEVELOPMENT
-
-Interactive Worlds · Creativity · Storytelling
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://img.icons8.com/fluency/96/rocket.png" width="48"/>
-
-### INNOVATION
-
-Experiments · Ideas · Product Building
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## ◈ MY TECHNOLOGY CONSTELLATION
-
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=cs,java,js,ts,python,html,css&theme=dark" />
-
-**FRAMEWORKS & DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=dotnet,nextjs,react,nodejs&theme=dark" />
-
-**TOOLS & ENVIRONMENT**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ THE ARCADE CONTRIBUTION ZONE
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/thilinaofficial/thilinaofficial/output/pacman-contribution-graph-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/thilinaofficial/thilinaofficial/output/pacman-contribution-graph.svg">
-  <img
-    alt="Pac-Man eating my GitHub contributions"
-    src="https://raw.githubusercontent.com/thilinaofficial/thilinaofficial/output/pacman-contribution-graph.svg"
-    width="100%">
-</picture>
-
-<sub>Every contribution is another level. Keep playing. 🎮</sub>
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ CURRENT OPERATING MODE
-
-| | |
-|:---|:---|
-| `MINDSET` | Always curious |
-| `MISSION` | Learn by creating |
-| `INTERESTS` | Technology without boundaries |
-| `LOCATION` | Sri Lanka |
-| `DIRECTION` | Always evolving |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=650&lines=Curiosity+is+my+starting+point.;There+is+always+something+new+to+discover.;I+explore.+I+experiment.+I+create." />
 
 <br/>
 
-### EXPLORE EVERYTHING. MASTER SOMETHING. CREATE SOMETHING NEW.
+`THILINA LAKSHAN` &nbsp; / &nbsp; `SRI LANKA`
+
+**A SOFTWARE ENGINEERING STUDENT WITH AN UNFINISHED MAP.**
+
+[GitHub](https://github.com/thilinaofficial) &nbsp; ◈ &nbsp; [Explore my universe](#)
+
+</div>
+
+---
+
+<div align="center">
+
+### 01 / THE UNKNOWN
+
+# WHY STOP AT ONE?
+
+</div>
+
+I am interested in the things I haven't discovered yet.
+
+From software and artificial intelligence to game worlds and experimental ideas, I enjoy moving between different areas of technology.
+
+**My curiosity doesn't follow a single roadmap.**
+
+---
+
+<div align="center">
+
+### 02 / FREQUENCIES
+
+# THINGS THAT CATCH MY ATTENTION
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1200&color=67E8F9&center=true&vCenter=true&width=550&lines=Think+different.;Question+everything.;Build+what+doesn't+exist+yet." />
+<img src="https://img.shields.io/badge/01-SOFTWARE-21143D?style=for-the-badge&labelColor=090014&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/02-ARTIFICIAL_INTELLIGENCE-21143D?style=for-the-badge&labelColor=090014&color=06B6D4"/>
+<img src="https://img.shields.io/badge/03-GAME_WORLDS-21143D?style=for-the-badge&labelColor=090014&color=EC4899"/>
+<img src="https://img.shields.io/badge/04-NEW_IDEAS-21143D?style=for-the-badge&labelColor=090014&color=F59E0B"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 03 / THE TOOLKIT
+
+# MY CREATIVE INSTRUMENTS
+
+**CODE**
+
+![C#](https://img.shields.io/badge/C%23-171124?style=flat-square&logo=csharp&logoColor=9B7BFF)
+![Java](https://img.shields.io/badge/Java-171124?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-171124?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-171124?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-171124?style=flat-square&logo=python&logoColor=3776AB)
+
+**BUILD**
+
+![.NET](https://img.shields.io/badge/.NET-171124?style=flat-square&logo=dotnet&logoColor=9B7BFF)
+![React](https://img.shields.io/badge/React-171124?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-171124?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-171124?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+
+**CREATE & EXPERIMENT**
+
+![Git](https://img.shields.io/badge/Git-171124?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-171124?style=flat-square&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-171124?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+
+</div>
+
+---
+
+<div align="center">
+
+### 04 / THE ARCADE
+
+# INSERT COIN. MAKE CONTRIBUTIONS.
+
+<img src="https://raw.githubusercontent.com/thilinaofficial/thilinaofficial/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man contribution game"/>
+
+`PLAYER: THILINA` &nbsp; / &nbsp; `LEVEL: NEVER ENDING`
+
+</div>
+
+---
+
+<div align="center">
+
+### 05 / END TRANSMISSION
+
+# STILL EXPLORING.
+
+**No final destination. Just another idea waiting to be built.**
 
 <br/>
 
-**THINK · EXPLORE · BUILD · REPEAT**
+`CURIOSITY` → `EXPERIMENTATION` → `CREATION`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0891B2,50:064E3B,100:071B16" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:24104A,50:11102D,100:090014" width="100%"/>
 
 </div>
