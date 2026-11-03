@@ -80,7 +80,7 @@ Experiments · Ideas · Product Building
 
 **TOOLS & ENVIRONMENT**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
 
 </div>
 
@@ -88,14 +88,22 @@ Experiments · Ideas · Product Building
 
 <div align="center">
 
-## ◈ THE DEVELOPER DASHBOARD
+## ◈ THE ARCADE CONTRIBUTION ZONE
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thilinaofficial&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=67E8F9&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilinaofficial&layout=compact&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=C9D1D9&langs_count=8" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/thilinaofficial/thilinaofficial/output/pacman-contribution-graph-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/thilinaofficial/thilinaofficial/output/pacman-contribution-graph.svg">
+  <img
+    alt="Pac-Man eating my GitHub contributions"
+    src="https://raw.githubusercontent.com/thilinaofficial/thilinaofficial/output/pacman-contribution-graph.svg"
+    width="100%">
+</picture>
 
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=thilinaofficial&bg_color=0D1117&color=34D399&line=22D3EE&point=FFFFFF&area=true&hide_border=true" />
+<sub>Every contribution is another level. Keep playing. 🎮</sub>
 
 </div>
 
